@@ -1,0 +1,53 @@
+{
+    "jobTitle": "",
+    "firstName": "Екатерина",
+    "lastName": "Левикина",
+    "email": "",
+    "phone": "",
+    "country": "Российская Федерация",
+    "city": "Москва",
+    "address": "",
+    "postalCode": "",
+    "dateOfBirth": "",
+    "placeOfBirth": "",
+    "drivingLicense": "",
+    "professionalSummary": "Работаю в компании \"ООО Ясный Взор\" на должности \"Технический специалист\"\nУчаствую воптимизации бизнес-процесов, помогая выявлять потребности сотрудников для оформления их в ТЗ. Дополнительно заполняю отчетность о реализации продуктов.",
+    "professionalSkills": "",
+    "saveAs": "PDF",
+    "employmentHistory": [
+        {
+            "employmentJobTitle": "ООО Ясный взор",
+            "employmentEmployer": "",
+            "employmentStartDate": "2020-07-02",
+            "employmentEndDate": "2023-02-28",
+            "employmentCity": "Москва",
+            "employmentDescription": "Технический специалист\nНаписание ТЗ для технического отдела;\nМониторинг работы системы;\nОписание тест-кейсов для тестирования;\nНаписание инструкций для работы операторов;\nОптимизация работы CRM;\nОбучение новых сотрудников."
+        }
+    ],
+    "educationHistory": [
+        {
+            "educationSchool": "",
+            "educationDegree": "",
+            "educationStartDate": "",
+            "educationEndDate": "",
+            "educationCity": "",
+            "educationDescription": ""
+        }
+    ],
+    "coursesHistory": [
+        {
+            "courseName": "Тестировщик ПО",
+            "courseInstitution": "Нетология",
+            "courseStartDate": "2022-01-01",
+            "courseEndDate": "2023-03-01"
+        }
+    ],
+    "languages": [
+        {
+            "languageTitle": "Английский язык",
+            "languageLevel": "A2"
+        }
+    ],
+    "socialLinks": [],
+    "additionalInfo": []
+}
